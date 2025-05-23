@@ -39,7 +39,7 @@ I'm a passionate developer who enjoys building smart and practical web applicati
 
 <a href="https://www.linkedin.com/in/enjanurr" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" title="LinkedIn">
-</a>  
+</a>  <br>
 📧 Email: `youremail@example.com`
 
 </div>
