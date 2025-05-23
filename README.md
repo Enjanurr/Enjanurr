@@ -4,7 +4,6 @@
 
 I'm a passionate developer who enjoys building smart and practical web applications. I work with both frontend and backend technologies, and I love bringing ideas to life through clean and efficient code.
 
-
 ---
 
 ### 💡 Fun Fact
@@ -12,6 +11,7 @@ I'm a passionate developer who enjoys building smart and practical web applicati
 Currently learning to integrate AI into web applications 🤖
 
 ---
+
 ### 🚀 Tech Stack
 
 #### 🖋️ Languages & Markup  
@@ -20,18 +20,24 @@ Currently learning to integrate AI into web applications 🤖
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
----
+
+<br><br>
+
 #### ⚙️ Frameworks & Libraries  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" title="Django"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" title="Express.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" title="Next.js"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" title="scikit-learn"/>
----
+
+<br><br>
+
 #### 🗄️ Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" title="SQLite"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" title="PostgreSQL"/>
----
+
+<br><br>
+
 #### 🛠️ Tools  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub"/>
@@ -45,7 +51,8 @@ Currently learning to integrate AI into web applications 🤖
 
 <a href="https://www.linkedin.com/in/enjanurr" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" title="LinkedIn">
-</a>  <br>
+</a>  
+
 📧 Email: bajentingjanurr@gmail.com
 
 </div>
