@@ -24,7 +24,7 @@ Currently learning to integrate AI into web applications 🤖
 <br><br>
 
 #### ⚙️ Frameworks & Libraries  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" title="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" title="Django"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" title="Express.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" title="Next.js"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" title="scikit-learn"/>
