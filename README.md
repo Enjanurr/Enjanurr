@@ -6,20 +6,15 @@ I'm a passionate developer who enjoys building smart and practical web applicati
 
 ---
 
-### 💡 Fun Fact
-
-Currently learning to integrate AI into web applications 🤖
-
----
-
 ### 🚀 Tech Stack
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; margin: 20px 0;">
+<!-- 2x2 Grid -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
-  <!-- Languages -->
-  <div>
+  <!-- Box 1: Languages -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
     <h4>🖋️ Languages & Markup</h4>
-    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
@@ -28,10 +23,10 @@ Currently learning to integrate AI into web applications 🤖
     </div>
   </div>
 
-  <!-- Frameworks -->
-  <div>
+  <!-- Box 2: Frameworks -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
     <h4>⚙️ Frameworks & Libraries</h4>
-    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" title="Django"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" title="Express.js"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" title="Next.js"/>
@@ -39,20 +34,20 @@ Currently learning to integrate AI into web applications 🤖
     </div>
   </div>
 
-  <!-- Databases -->
-  <div>
+  <!-- Box 3: Databases -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
     <h4>🗄️ Databases</h4>
-    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" title="SQLite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" title="PostgreSQL"/>
     </div>
   </div>
 
-  <!-- Tools -->
-  <div>
+  <!-- Box 4: Tools -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
     <h4>🛠️ Tools</h4>
-    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VS Code"/>
