@@ -42,7 +42,7 @@ I'm a passionate developer who enjoys building smart and practical web applicati
 
 ### 📬 Reach Me
 
-<a href="https://www.linkedin.com/in/enjanurr" target="_blank">
+<a href="[https://www.linkedin.com/in/enjanurr](https://www.linkedin.com/in/johnru-bajenting-57880a342/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" title="LinkedIn">
 </a>  
 
